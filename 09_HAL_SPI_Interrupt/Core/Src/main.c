@@ -230,10 +230,6 @@ void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef *hspi)
 {
     if(hspi->Instance == SPI1)
     {
-        HAL_GPIO_TogglePin(GPIOD,
-                           GPIO_PIN_12);
-
-        //HAL_Delay(1000);
 
         HAL_SPI_TransmitReceive_IT(&hspi1,
                                    tx_data,
