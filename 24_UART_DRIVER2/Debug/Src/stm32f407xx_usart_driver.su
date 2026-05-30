@@ -1,0 +1,8 @@
+../Src/stm32f407xx_usart_driver.c:27:6:USART_PeriClockControl	16	static
+../Src/stm32f407xx_usart_driver.c:76:6:USART_PeripheralControl	16	static
+../Src/stm32f407xx_usart_driver.c:102:9:USART_GetFlagStatus	16	static
+../Src/stm32f407xx_usart_driver.c:125:6:USART_SetBaudRate	40	static
+../Src/stm32f407xx_usart_driver.c:204:6:USART_Init	24	static
+../Src/stm32f407xx_usart_driver.c:304:6:USART_DeInit	16	static
+../Src/stm32f407xx_usart_driver.c:327:6:USART_SendData	32	static
+../Src/stm32f407xx_usart_driver.c:385:6:USART_ReceiveData	32	static
