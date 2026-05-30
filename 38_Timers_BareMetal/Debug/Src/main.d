@@ -1,0 +1,21 @@
+Src/main.o: ../Src/main.c \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_gpio_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_spi_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_i2c_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_usart_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_RCC_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_systick_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_adc_driver.h \
+ D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_timer_driver.h
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_gpio_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_spi_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_i2c_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_usart_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_RCC_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_systick_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_adc_driver.h:
+D:/STM32Workspace/37_Systick_BareMetal/drivers/Inc/stm32f407xx_timer_driver.h:
