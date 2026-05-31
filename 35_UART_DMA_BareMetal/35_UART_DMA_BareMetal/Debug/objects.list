@@ -1,0 +1,7 @@
+"./Src/main.o"
+"./Src/stm32f407xx_RCC_driver.o"
+"./Src/stm32f407xx_gpio._driver.o"
+"./Src/stm32f407xx_usart_driver.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
